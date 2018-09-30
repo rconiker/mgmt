@@ -56,7 +56,7 @@ Your career is yours to manage. You know best how you’d like to grow and in wh
 
 I will try to push projects and tasks your way that align with your career goals, but It will be up to to you to seize these growth and learning opportunities and run with them.
 
-At the end of the day, it is your career. Set your goal and let me know how I can help you achieve them.
+At the end of the day, it is your career. Set your goals and let me know how I can help you achieve them.
 
 ---
 
