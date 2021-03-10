@@ -120,7 +120,7 @@ I take vacations. You should, too. Disconnected from the normal day-to-day is wh
 
 **I need you to know that sometimes I may be in HIGH ALERT mode, and some of my practices and principles may change.** HIGH ALERT conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when it will be over. If I am constantly in this state, something is fundamentally wrong.
 
-**I am Customer and User obsessed.** We’re all here to create the best products that we possibly can. That starts with a laser focus on the needs of our users, customers and other stake holders.
+**I am customer and user obsessed.** We’re all here to create the best products that we possibly can. That starts with a laser focus on the needs of our users, customers and other stake holders.
 
 **I believe that critical thinking is an essential part of world class team.** Nothing is sacred and we shouldn’t do anything “because we’ve always done it that way”. No cargo culting.
 
