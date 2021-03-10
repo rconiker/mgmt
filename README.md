@@ -12,7 +12,7 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 
 ## My Role
 
-I am here to make sure our team is successful, working on the next-most-important-thing™, and to help create a space where you can do the <u>best work of your life</u>. 
+I am here to make sure our team is successful, working on the next-most-important-thing™, and to help create a space where you can _do the best work of your life_. 
 
 More specifically:
 
@@ -98,7 +98,7 @@ You can send me DM on chat 24 hours a day. I like responding quickly. The more i
 
 If I am traveling, I will give you notice of said travel in advance. Assume all of our meetings will still occur, unless told otherwise.
 
-I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend without a specific request to do so.** I might send you messages during off-hours, but unless it says URGENT, it can always wait until work begins for you on Monday.
+I work a bit on the weekends. This is my choice. **I do not expect that you are going to work during the weekend without a specific request to do so.** I might send you messages during off-hours, but unless it says URGENT, it can always wait until work begins for you on Monday.
 
 I take vacations. You should, too. Disconnected from the normal day-to-day is when I do some of my best work.
 
