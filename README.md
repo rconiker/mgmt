@@ -21,7 +21,7 @@ More specifically:
 - I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us.
 - I am here to collect and share context from across the broader company initiatives and mission.
 - I am here to attract, retain and grow high performing individuals and teams.
-- I am here to foster a culture of passion, innovation and collaboration, leading to a track record for shipping quality products and projects.
+- I am here to foster a culture of passion, innovation and collaboration, leading to a track record of shipping quality products and projects.
 
 I also write code, and will generally be one of the primary architects of our systems, tooling, and practices.
 
