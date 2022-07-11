@@ -126,7 +126,7 @@ I take vacations. You should, too. Disconnected from the normal day-to-day is wh
 
 **I believe self reflection is an important part of growth.** You’ll miss opportunities without it. Make sure to allocate time for this essential activity.
 
-**I place a big emphasis on being intentional.** We have too much to do for our work to be randomly be pursued. Intentionality is important to make sure we get the results we want.
+**I place a big emphasis on being intentional.** We have too much to do for our work to be randomly pursued. Intentionality is important to make sure we get the results we want.
 
 **I think empathy helps things run smoother, especially during difficult or chaotic times.** Developing our emotional intelligence and having empathy for one's co-workers will help us to build strong teams.
 
@@ -164,7 +164,7 @@ I take vacations. You should, too. Disconnected from the normal day-to-day is wh
 
 ## Personality Quirks
 
-- I have been known to argue with “passion” - If I raise my voice a little or come off as dismissive, I'm sorry. I don’t like this about myself, and try catch myself when I am doing it. When you feel I have crossed the line, tell me.
+- I have been known to argue with “passion” - If I raise my voice a little or come off as dismissive, I'm sorry. I don’t like this about myself, and try to catch myself when I am doing it. When you feel I have crossed the line, tell me.
 - I have strong opinions, weakly held.  I try to see an issue from all sides.  Question everything, and we’ll all be better for it.
 - I care about my words and endeavor to choose them carefully. I try to remember that not everyone shares my connotations, and will do my best to define the nuances in my words, when possible.
 - When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
